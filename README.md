@@ -1,10 +1,10 @@
 # Medical-Data-Visualizer
 Medical Data Visualizer project for Freecodecamp certificate
 
-Data description
+#Data description
 The rows in the dataset represent patients and the columns represent information like body measurements, results from various blood tests, and lifestyle choices. You will use the dataset to explore the relationship between cardiac disease, body measurements, blood markers, and lifestyle choices.
 
-Instructions
+#Instructions
 By each number in the medical_data_visualizer.py file, add the code from the associated instruction number below.
 
 Import the data from medical_examination.csv and assign it to the df variable
